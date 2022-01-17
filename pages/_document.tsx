@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Document, { DocumentContext, Head, Html, Main, NextScript } from 'next/document';
 import { createGenerateId, JssProvider, SheetsRegistry } from 'react-jss';
 

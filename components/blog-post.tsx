@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { IBurdyBlog } from '../types/burdy-cms';
 import { createUseStyles } from 'react-jss';
 import React from 'react';

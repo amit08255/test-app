@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { IBurdyImage } from '../types/burdy-cms';
 import React, { HTMLProps } from 'react';
 import classNames from 'classnames';

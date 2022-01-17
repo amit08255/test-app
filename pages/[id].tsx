@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { GetServerSideProps } from 'next';
 import axios from 'axios';
 import { IBurdyBlog } from '../types/burdy-cms';

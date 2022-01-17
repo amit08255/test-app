@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "burdy dev",
     "build": "next build && burdy build",
-    "start": "export SERVER_PORT=$PORT && burdy start",
+    "start": "burdy start",
     "db:init": "burdy db migration:generate -n initial && burdy db migration:run",
     "lint": "next lint"
   },
